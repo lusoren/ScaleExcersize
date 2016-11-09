@@ -1,0 +1,378 @@
+.container{
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+
+
+}
+
+.box{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:35%;
+	left:35%;
+
+	/*background-image: url("../images/butt.jpg");*/
+	/*background-size: 100% 100%;*/
+	/**/
+	/**/
+	/*background-blend-mode: multiply;*/
+}
+
+@media (max-width: 425px) and (min-width: 400px){
+     body {
+         background-color: rgb(12,6,4);
+     }
+}
+
+@media (max-width: 450px) and (min-width: 425px){
+     body {
+         background-color: rgb(24,12,8);
+     }
+}
+
+@media (max-width: 475px) and (min-width: 450px){
+     body {
+         background-color: rgb(36,18,12);
+     }
+}
+
+@media (max-width: 500px) and (min-width: 475px){
+     body {
+         background-color: rgb(48,24,16);
+     }
+}
+
+@media (max-width: 525px) and (min-width: 500px){
+     body {
+         background-color: rgb(60,30,20);
+     }
+}
+
+@media (max-width: 550px) and (min-width: 525px){
+     body {
+         background-color: rgb(72,36,24);
+     }
+}
+
+@media (max-width: 575px) and (min-width: 550px){
+     body {
+         background-color: rgb(84,42,28);
+     }
+}
+
+@media (max-width: 600px) and (min-width: 575px){
+     body {
+         background-color: rgb(96,48,32);
+     }
+}
+
+@media (max-width: 625px) and (min-width: 600px){
+     body {
+         background-color: rgb(108,54,36);
+     }
+}
+
+@media (max-width: 650px) and (min-width: 625px){
+     body {
+         background-color: rgb(120,60,40);
+     }
+}
+
+@media (max-width: 675px) and (min-width: 650px){
+     body {
+         background-color: rgb(132,66,44);
+     }
+}
+
+@media (max-width: 700px) and (min-width: 675px){
+     body {
+         background-color: rgb(144,72,48);
+     }
+}
+
+@media (max-width: 725px) and (min-width: 700px){
+     body {
+         background-color: rgb(156,78,52);
+     }
+}
+
+@media (max-width: 750px) and (min-width: 725px){
+     body {
+         background-color: rgb(168,84,56);
+     }
+}
+
+@media (max-width: 775px) and (min-width: 750px){
+     body {
+         background-color: rgb(180,90,60);
+     }
+}
+
+@media (max-width: 800px) and (min-width: 775px){
+     body {
+         background-color: rgb(192,96,64);
+     }
+}
+
+@media (max-width: 825px) and (min-width: 800px){
+     body {
+         background-color: rgb(204,102,68);
+     }
+}
+
+@media (max-width: 850px) and (min-width: 825px){
+     body {
+         background-color: rgb(216,108,72);
+     }
+}
+
+@media (max-width: 875px) and (min-width: 850px){
+     body {
+         background-color: rgb(228,114,76);
+     }
+}
+
+@media (max-width: 900px) and (min-width: 875px){
+     body {
+         background-color: rgb(240,120,80);
+     }
+}
+
+@media (max-width: 925px) and (min-width: 900px){
+     body {
+         background-color: rgb(252,126,84);
+     }
+}
+
+@media (max-width: 950px) and (min-width: 925px){
+     body {
+         background-color: rgb(255,132,88);
+     }
+}
+
+@media (max-width: 975px) and (min-width: 950px){
+     body {
+         background-color: rgb(255,138,92);
+     }
+}
+
+@media (max-width: 1000px) and (min-width: 975px){
+     body {
+         background-color: rgb(255,144,96);
+     }
+}
+
+@media (max-width: 1025px) and (min-width: 1000px){
+     body {
+         background-color: rgb(255,150,100);
+     }
+}
+
+@media (max-width: 1050px) and (min-width: 1025px){
+     body {
+         background-color: rgb(255,156,104);
+     }
+}
+
+@media (max-width: 1075px) and (min-width: 1050px){
+     body {
+         background-color: rgb(255,162,108);
+     }
+}
+
+@media (max-width: 1100px) and (min-width: 1075px){
+     body {
+         background-color: rgb(255,168,112);
+     }
+}
+
+@media (max-width: 1125px) and (min-width: 1100px){
+     body {
+         background-color: rgb(255,174,116);
+     }
+}
+
+@media (max-width: 1150px) and (min-width: 1125px){
+     body {
+         background-color: rgb(255,180,120);
+     }
+}
+
+@media (max-width: 1175px) and (min-width: 1150px){
+     body {
+         background-color: rgb(255,186,124);
+     }
+}
+
+@media (max-width: 1200px) and (min-width: 1175px){
+     body {
+         background-color: rgb(255,192,128);
+     }
+}
+
+@media (max-width: 1225px) and (min-width: 1200px){
+     body {
+         background-color: rgb(255,198,132);
+     }
+}
+
+@media (max-width: 1250px) and (min-width: 1225px){
+     body {
+         background-color: rgb(255,204,136);
+     }
+}
+
+@media (max-width: 1275px) and (min-width: 1250px){
+     body {
+         background-color: rgb(255,210,140);
+     }
+}
+
+@media (max-width: 1300px) and (min-width: 1275px){
+     body {
+         background-color: rgb(255,216,144);
+     }
+}
+
+@media (max-width: 1325px) and (min-width: 1300px){
+     body {
+         background-color: rgb(255,222,148);
+     }
+}
+
+@media (max-width: 1350px) and (min-width: 1325px){
+     body {
+         background-color: rgb(255,228,152);
+     }
+}
+
+@media (max-width: 1375px) and (min-width: 1350px){
+     body {
+         background-color: rgb(255,234,156);
+     }
+}
+
+@media (max-width: 1400px) and (min-width: 1375px){
+     body {
+         background-color: rgb(255,240,160);
+     }
+}
+
+@media (max-width: 1425px) and (min-width: 1400px){
+     body {
+         background-color: rgb(255,246,164);
+     }
+}
+
+@media (max-width: 1450px) and (min-width: 1425px){
+     body {
+         background-color: rgb(255,252,168);
+     }
+}
+
+@media (max-width: 1475px) and (min-width: 1450px){
+     body {
+         background-color: rgb(255,255,172);
+     }
+}
+
+@media (max-width: 1500px) and (min-width: 1475px){
+     body {
+         background-color: rgb(255,255,176);
+     }
+}
+
+@media (max-width: 1525px) and (min-width: 1500px){
+     body {
+         background-color: rgb(255,255,180);
+     }
+}
+
+@media (max-width: 1550px) and (min-width: 1525px){
+     body {
+         background-color: rgb(255,255,184);
+     }
+}
+
+@media (max-width: 1575px) and (min-width: 1550px){
+     body {
+         background-color: rgb(255,255,188);
+     }
+}
+
+@media (max-width: 1600px) and (min-width: 1575px){
+     body {
+         background-color: rgb(255,255,192);
+     }
+}
+
+@media (max-width: 1625px) and (min-width: 1600px){
+     body {
+         background-color: rgb(255,255,196);
+     }
+}
+
+@media (max-width: 1650px) and (min-width: 1625px){
+     body {
+         background-color: rgb(255,255,200);
+     }
+}
+
+@media (max-width: 1675px) and (min-width: 1650px){
+     body {
+         background-color: rgb(255,255,204);
+     }
+}
+
+@media (max-width: 1700px) and (min-width: 1675px){
+     body {
+         background-color: rgb(255,255,208);
+     }
+}
+
+@media (max-width: 1725px) and (min-width: 1700px){
+     body {
+         background-color: rgb(255,255,212);
+     }
+}
+
+@media (max-width: 1750px) and (min-width: 1725px){
+     body {
+         background-color: rgb(255,255,216);
+     }
+}
+
+@media (max-width: 1775px) and (min-width: 1750px){
+     body {
+         background-color: rgb(255,255,220);
+     }
+}
+
+@media (max-width: 1800px) and (min-width: 1775px){
+     body {
+         background-color: rgb(255,255,224);
+     }
+}
+
+@media (max-width: 1825px) and (min-width: 1800px){
+     body {
+         background-color: rgb(255,255,228);
+     }
+}
+
+@media (max-width: 1850px) and (min-width: 1825px){
+     body {
+         background-color: rgb(255,255,232);
+     }
+}
+
+@media (max-width: 1875px) and (min-width: 1850px){
+     body {
+         background-color: rgb(255,255,236);
+     }
+}
+
