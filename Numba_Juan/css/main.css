@@ -25,6 +25,16 @@ body {
    transition: all 100ms ease;   
 }
 
+#other {
+
+	transition: all 1000ms ease;   
+}
+
+#brother {
+
+	transition: all 4000ms ease;   
+}
+
 @media (max-width: 425px) and (min-width: 400px) {
      .box {
          width:500px;
