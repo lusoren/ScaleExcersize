@@ -1,10 +1,10 @@
 body {
 	background-color: white;
 	
-	background-image: url("../images/Like.png");
+/*	background-image: url("../images/Like.png");*/
 	background-size: 100% 100%;
 	
-	/*background-color: red;*/
+	background-color: white;
 	/*background-blend-mode: multiply;*/
 }
 
@@ -15,10 +15,12 @@ body {
 	top:50%;
 	left:50%;
 	transform: translate(-50%,-50%);
-	background-color: white;
+	background-color: red;
 	
-	background-image: url("../images/Like.png");
-	background-size: 100% 100%;
+	opacity: .33333;
+	
+	/*background-image: url("../images/Like.png");
+	background-size: 100% 100%;*/
 
 
 	
@@ -27,12 +29,14 @@ body {
 
 #other {
 
-	transition: all 1000ms ease;   
+	transition: all 1000ms ease;
+	background-color: blue;
 }
 
 #brother {
 
-	transition: all 4000ms ease;   
+	transition: all 4000ms ease;
+	background-color: rgb(0,255,0);
 }
 
 @media (max-width: 425px) and (min-width: 400px) {
